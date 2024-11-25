@@ -1,0 +1,9 @@
+finance-assistant-chatbot/
+│
+├── backend.py           # Contains finance logic and data handling
+├── chatbot.py           # LangChain NLP logic
+├── streamlit_app.py     # Main Streamlit app
+├── utils.py             # Utility functions (authentication, etc.)
+├── requirements.txt     # Required libraries
+├── README.md            # Project description and setup instructions
+└── data/                # Folder for saving user data 
