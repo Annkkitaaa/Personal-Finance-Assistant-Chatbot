@@ -30,6 +30,10 @@ The **Personal Finance Assistant Chatbot** is a simple yet powerful tool designe
 6. **Real-Time Data Integration (Planned Enhancements):**  
    - Connect to free APIs to sync expenses with bank data for real-time tracking.
 
+
+     ![image](https://github.com/user-attachments/assets/60025b1b-9c45-4bdd-8ffc-5e1aaf619553)
+
+
 ---
 
 ## Project Structure  
